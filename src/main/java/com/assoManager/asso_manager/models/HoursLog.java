@@ -1,4 +1,4 @@
-package models;
+package com.assoManager.asso_manager.models;
 
 import jakarta.persistence.*;
 import lombok.AllArgsConstructor;

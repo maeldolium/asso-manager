@@ -1,7 +1,6 @@
 package com.assoManager.asso_manager.repository;
 
-import models.Task;
-import models.Project;
+import com.assoManager.asso_manager.models.Task;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

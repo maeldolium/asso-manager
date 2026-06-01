@@ -1,8 +1,8 @@
 package com.assoManager.asso_manager.repository;
 
-import models.HoursLog;
-import models.Member;
-import models.Project;
+import com.assoManager.asso_manager.models.HoursLog;
+import com.assoManager.asso_manager.models.Member;
+import com.assoManager.asso_manager.models.Project;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;

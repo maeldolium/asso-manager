@@ -1,7 +1,7 @@
 package com.assoManager.asso_manager.repository;
 
-import models.Project;
-import models.ProjectStatus;
+import com.assoManager.asso_manager.models.Project;
+import com.assoManager.asso_manager.models.ProjectStatus;
 import org.springframework.data.jpa.repository.JpaRepository;
 
 import java.util.List;
